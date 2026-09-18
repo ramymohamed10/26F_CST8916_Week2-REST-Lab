@@ -147,12 +147,12 @@ To run the Flask API on your local machine:
 2. **Clone your forked repository** (replace `YOUR-USERNAME` with your GitHub username):
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/26W_CST8916_Week2-REST-Lab.git
+   git clone https://github.com/YOUR-USERNAME/26F_CST8916_Week2-REST-Lab.git
    ```
 
 3. Navigate to the project directory:
    ```bash
-   cd 26W_CST8916_Week2-REST-Lab
+   cd _CST8916_Week2-REST-Lab
    ```
 
 4. Install the dependencies:
